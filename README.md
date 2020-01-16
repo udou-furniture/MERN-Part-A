@@ -1,16 +1,16 @@
 # UDOU - Built to Fit 
 ## Furniture ecommerce site with product configuration.
 
+### Purpose
+
+We are building a full stack web application to function as a one way ecommerce platform for our client to sell user-configurable furniture items directly to consumers. 
+
 ## Contributors
 
 |[![Melissa Bykersma](/docs/contributors/mel-b-70x70.png)](https://github.com/MelB-24)| [![Kyle Smith](/docs/contributors/kyle-s-70x70.png)](https://github.com/Kyle46220) | [![Mark Tomlinson](/docs/contributors/mark-t-70x70.png)](https://github.com/mark-tomlinson-dev)| 
 |-----------|-----------|-------------|
 | Melissa Bykersma | Kyle Smith | Mark Tomlinson
 
-
-### Purpose
-
-We are building a full stack web application to function as a one way ecommerce platform for our client to sell user-configurable furniture items directly to consumers. 
 
 ### Functionality/Features
 
