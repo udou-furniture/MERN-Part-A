@@ -1,15 +1,11 @@
-### Assessment: Real World Application - Part A
-
-### Documentation
-
 # UDOU - Built to Fit 
-## Furniture ecommerce site with product configuration. 
+## Furniture ecommerce site with product configuration.
 
-### Contributors
+## Contributors
 
-![Mel](https://github.com/MelB-24)
-![Kyle](https://github.com/Kyle46220)
-![Mark](https://github.com/mark-tomlinson-dev)
+|[![Melissa Bykersma](/docs/contributors/mel-b-70x70.png)](https://github.com/MelB-24)| [![Kyle Smith](/docs/contributors/kyle-s-70x70.png)](https://github.com/Kyle46220) | [![Mark Tomlinson](/docs/contributors/mark-t-70x70.png)](https://github.com/mark-tomlinson-dev)| 
+|-----------|-----------|-------------|
+| Melissa Bykersma | Kyle Smith | Mark Tomlinson
 
 
 ### Purpose
