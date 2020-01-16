@@ -67,33 +67,33 @@ As Brendan, I want to specify some uniquely shaped shelving, so that I can fit m
 
 # Wireframes
 
-Home Page
+## Home Page
 ![Home Page](/docs/Home.png)
-Home Page Mobile
+## Home Page Mobile
 ![Home Page Mobile](/docs/Home-Mobile.png)
-Home Page Collection Dropdown
+## Home Page Collection Dropdown
 ![Home Page Dropdown](/docs/Home-Dropdown.png)
-Collection
+## Collection
 ![Collection](/docs/Collections.png)
-Collection Mobile
+## Collection Mobile
 ![Collections Mobile](/docs/Collections-Mobile.png)
-Individual Product
+## Individual Product
 ![Individual Product](/docs/Individual-Product-Page.png)
-Login
+## Login
 ![Login](/docs/Login.png)
-Login Mobile
+## Login Mobile
 ![Login Mobile](/docs/Login-Mobile.png)
-Register
+## Register
 ![Register](/docs/Register.png)
-Register Mobile
+## Register Mobile
 ![Register Mobile](/docs/Register-Mobile.png)
-Reviews
+## Reviews
 ![Reviews](/docs/Reviews.png)
-Reviews Mobile
+## Reviews Mobile
 ![Reviews Mobile](/docs/Reviews-Mobile.png)
-Shopping Cart
+## Shopping Cart
 ![Shopping Cart](/docs/Shopping-Cart.png)
-Shopping Cart Mobile
+## Shopping Cart Mobile
 ![Shopping Cart Mobile](/docs/Shopping-Cart-Mobile.png)
 
 
