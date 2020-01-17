@@ -44,6 +44,10 @@ The tech stack used to build the application will be the MERN stack. A MERN stac
 
 ![Home Page](/docs/application-architecture-diagram-1.png)
 
+# Data Flow Diagram 
+
+![Data Flow Diagram](/docs/data-flow-diagram.png)
+
 # User stories
 #### Some typical user personas
 
