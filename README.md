@@ -20,9 +20,9 @@ There will be a top nav bar across all pages with page links to the main pages w
 
 Each category will have its own index page displaying the products in this category. There is a reactive form taking inputs to filter the results. The results are displayed as cards. 
 
-Each product page will have a form taking inputs for product configuration (such as height, width, colour etc). There will be a dynamic representation of the cabinet that is updated as changes are made. 
+Each product page will have a form taking inputs for product configuration (height, width, colour). There will be a dynamic representation of the cabinet that is updated as changes are made. If there is time, we would like to add other customisations, such as placement of drawers, or shelf position and quantity.  
 
-The product page will have a button to purchase the product once it has been configured and the user will then be directed to sign up or login, before going to a cart, and then to checkout through a payment gateway. 
+The product page will have a button to purchase the product once it has been configured and the user will then be directed to sign up or login, before going to a cart, and then to checkout which will at least have an order request button, that will save the order to the database, or if there is time there will be a stripe payment gateway. 
 
 Once a purchase has been made, the user will be able to leave a review for their product through a form. 
 
