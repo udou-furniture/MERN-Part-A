@@ -1,9 +1,9 @@
 # UDOU - Built to Fit 
-## Furniture ecommerce site with product configuration.
+## Furniture ecommerce site with product configuration
 
 ### Purpose
 
-We are building a full stack web application to function as a one way ecommerce platform for our client to sell user-configurable furniture items directly to consumers. 
+We are building a full stack web application to function as a one-way ecommerce platform for our client to sell user-configurable furniture items directly to consumers. 
 
 ### Contributors
 
@@ -22,14 +22,14 @@ Each category will have its own index page displaying the products in this categ
 
 Each product page will have a form taking inputs for product configuration (height, width, colour). There will be a dynamic representation of the cabinet that is updated as changes are made. If there is time, we would like to add other customisations, such as placement of drawers, or shelf position and quantity.  
 
-The product page will have a button to purchase the product once it has been configured and the user will then be directed to sign up or login, before going to a cart, and then to checkout which will at least have an order request button, that will save the order to the database, or if there is time there will be a stripe payment gateway. 
+The product page will have a button to purchase the product once it has been configured and the user will then be directed to sign up or login, before going to a cart, and then to checkout which will at least have an order request button that will save the order to the database. If there is time there will be a stripe payment gateway. 
 
 Once a purchase has been made, the user will be able to leave a review for their product through a form. 
 
 
 ### Target audience
 
-The client for this project serves end consumers in a residential domestic market. The target user for the web app is the lead purchaser in a household that rents or owns their own home. 
+The client for this project serves end consumers in a residential domestic market. The target user for the web app is the lead purchaser in a household who rents or owns their own home. 
 
 ### Tech stack
 
@@ -57,15 +57,15 @@ Mid 30’s defacto couple.
 Clara is a graphic designer and Nick runs a printing studio. 
 They both have basic computer literacy and several devices each. 
 They are professional, have no kids, are balanced between career and social lives. 
-The have some discretionary cash, more so through wise spending rather than high income, through their household income is $130K per year. 
+They have some discretionary cash, more so through wise spending rather than high income, though their household income is $130K per year. 
 They rent an apartment, do not own a car, and have two dogs. 
 
 
 #### Maria
 
 Late 30’s.
-Has young family, and is working part time. 
-Setting up a home, in the house she and her partner recently bought in the suburbs.  
+Has young family and is working part time. 
+Setting up a home in the house she and her partner recently bought in the suburbs.  
 Money isn’t super abundant but she appreciates quality and the value of organisation and design and will invest in things that last. 
 
 #### Brendan
