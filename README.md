@@ -57,7 +57,7 @@ Mid 30’s defacto couple.
 Clara is a graphic designer and Nick runs a printing studio. 
 They both have basic computer literacy and several devices each. 
 They are professional, have no kids, are balanced between career and social lives. 
-They have some discretionary cash, more so through wise spending rather than high income, though their household income is $130K per year. 
+They have some discretionary cash, more so through wise spending rather than high income. Their household income is $130K per year. 
 They rent an apartment, do not own a car, and have two dogs. 
 
 
